@@ -1,7 +1,7 @@
 # house-price-prediction
 House price prediction using Machine Learning (ML) is a powerful and popular application of artificial intelligence in the real estate domain. It involves developing models that can accurately estimate the value of a house based on various features and historical data. The primary goal is to provide homeowners, buyers, and real estate agents with insights into the potential price of a property, enabling better decision-making and market analysis.
 
-            ![image](https://github.com/Kalarisuryasai/house-price-prediction/assets/74339607/38535829-89eb-40ba-95f9-c782f0c42a78)
+![image](https://github.com/Kalarisuryasai/house-price-prediction/assets/74339607/38535829-89eb-40ba-95f9-c782f0c42a78)
             
 In this project, house prices will be predicted given explanatory variables that cover many aspects of residential houses. The goal of this project is to create a regression model that are able to accurately estimate the price of the house given the features.
 
